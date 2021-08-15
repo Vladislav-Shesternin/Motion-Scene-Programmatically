@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transition_id" type="id"/>
+    <item name="start_set_id" type="id"/>
+    <item name="end_set_id" type="id"/>
+
+    <item name="transition_rotation_id" type="id"/>
+    <item name="rotation_set_id" type="id"/>
+</resources>
